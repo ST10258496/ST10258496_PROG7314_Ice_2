@@ -1,0 +1,4646 @@
+[
+  {
+    "id": "22997",
+    "href": "https://rest.gadventures.com/tour_dossiers/22997",
+    "name": "Wonders of Borneo",
+    "slug": "wonders-of-borneo",
+    "product_line": "AABE",
+    "departures_start_date": "2015-01-01",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "1246",
+        "variation_id": "2100",
+        "href": "https://rest.gadventures.com/itineraries/1246/2100",
+        "valid_during_ranges": [
+          {
+            "start_date": "2015-01-01",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "25824",
+    "href": "https://rest.gadventures.com/tour_dossiers/25824",
+    "name": "Upgraded Borneo Adventure",
+    "slug": "in-depth-borneo-adventure",
+    "product_line": "AABJ",
+    "departures_start_date": "2022-04-07",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "4141",
+        "variation_id": "9005",
+        "href": "https://rest.gadventures.com/itineraries/4141/9005",
+        "valid_during_ranges": [
+          {
+            "start_date": "2022-04-07",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "24549",
+    "href": "https://rest.gadventures.com/tour_dossiers/24549",
+    "name": "Borneo Encompassed",
+    "slug": "borneo-encompassed",
+    "product_line": "AABM",
+    "departures_start_date": "2016-06-05",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "2519",
+        "variation_id": "7957",
+        "href": "https://rest.gadventures.com/itineraries/2519/7957",
+        "valid_during_ranges": [
+          {
+            "start_date": "2019-11-25",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "2519",
+        "variation_id": "3684",
+        "href": "https://rest.gadventures.com/itineraries/2519/3684",
+        "valid_during_ranges": [
+          {
+            "start_date": "2016-06-05",
+            "end_date": "2018-10-12"
+          }
+        ]
+      },
+      {
+        "id": "2519",
+        "variation_id": "6589",
+        "href": "https://rest.gadventures.com/itineraries/2519/6589",
+        "valid_during_ranges": [
+          {
+            "start_date": "2018-10-13",
+            "end_date": "2019-11-24"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "24781",
+    "href": "https://rest.gadventures.com/tour_dossiers/24781",
+    "name": "Journeys: Best of Borneo",
+    "slug": "journeys-best-of-borneo",
+    "product_line": "AABNG",
+    "departures_start_date": "2017-04-03",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "2722",
+        "variation_id": "8147",
+        "href": "https://rest.gadventures.com/itineraries/2722/8147",
+        "valid_during_ranges": [
+          {
+            "start_date": "2020-02-26",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "2722",
+        "variation_id": "5031",
+        "href": "https://rest.gadventures.com/itineraries/2722/5031",
+        "valid_during_ranges": [
+          {
+            "start_date": "2017-04-03",
+            "end_date": "2020-02-25"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": [
+      {
+        "room": null,
+        "departure": {
+          "id": "1288805",
+          "href": "https://rest.gadventures.com/departures/1288805"
+        },
+        "previous_amount": null,
+        "currency": "AUD",
+        "amount": "5699.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288805",
+          "href": "https://rest.gadventures.com/departures/1288805"
+        },
+        "previous_amount": null,
+        "currency": "CAD",
+        "amount": "5449.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288805",
+          "href": "https://rest.gadventures.com/departures/1288805"
+        },
+        "previous_amount": null,
+        "currency": "CHF",
+        "amount": "3559.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288805",
+          "href": "https://rest.gadventures.com/departures/1288805"
+        },
+        "previous_amount": null,
+        "currency": "CNY",
+        "amount": "31699.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288805",
+          "href": "https://rest.gadventures.com/departures/1288805"
+        },
+        "previous_amount": null,
+        "currency": "EUR",
+        "amount": "3769.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288805",
+          "href": "https://rest.gadventures.com/departures/1288805"
+        },
+        "previous_amount": null,
+        "currency": "GBP",
+        "amount": "3299.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288809",
+          "href": "https://rest.gadventures.com/departures/1288809"
+        },
+        "previous_amount": null,
+        "currency": "HKD",
+        "amount": "34639.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288805",
+          "href": "https://rest.gadventures.com/departures/1288805"
+        },
+        "previous_amount": null,
+        "currency": "JPY",
+        "amount": "640000.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288805",
+          "href": "https://rest.gadventures.com/departures/1288805"
+        },
+        "previous_amount": null,
+        "currency": "KRW",
+        "amount": "5791900.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288805",
+          "href": "https://rest.gadventures.com/departures/1288805"
+        },
+        "previous_amount": null,
+        "currency": "NZD",
+        "amount": "6139.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288805",
+          "href": "https://rest.gadventures.com/departures/1288805"
+        },
+        "previous_amount": null,
+        "currency": "SGD",
+        "amount": "5939.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288805",
+          "href": "https://rest.gadventures.com/departures/1288805"
+        },
+        "previous_amount": null,
+        "currency": "USD",
+        "amount": "4449.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288805",
+          "href": "https://rest.gadventures.com/departures/1288805"
+        },
+        "previous_amount": null,
+        "currency": "ZAR",
+        "amount": "74599.00",
+        "promotion": null
+      }
+    ]
+  },
+  {
+    "id": "24553",
+    "href": "https://rest.gadventures.com/tour_dossiers/24553",
+    "name": "Highlights of Sabah & Mt Kinabalu",
+    "slug": "highlights-of-sabah-and-mount-kinabalu",
+    "product_line": "AAEK",
+    "departures_start_date": "2016-06-06",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "2524",
+        "variation_id": "9275",
+        "href": "https://rest.gadventures.com/itineraries/2524/9275",
+        "valid_during_ranges": [
+          {
+            "start_date": "2023-01-18",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "2524",
+        "variation_id": "3690",
+        "href": "https://rest.gadventures.com/itineraries/2524/3690",
+        "valid_during_ranges": [
+          {
+            "start_date": "2016-06-06",
+            "end_date": "2019-12-22"
+          }
+        ]
+      },
+      {
+        "id": "2524",
+        "variation_id": "8020",
+        "href": "https://rest.gadventures.com/itineraries/2524/8020",
+        "valid_during_ranges": [
+          {
+            "start_date": "2019-12-23",
+            "end_date": "2023-01-17"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": [
+      {
+        "room": null,
+        "departure": {
+          "id": "1288379",
+          "href": "https://rest.gadventures.com/departures/1288379"
+        },
+        "previous_amount": null,
+        "currency": "AUD",
+        "amount": "3529.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288379",
+          "href": "https://rest.gadventures.com/departures/1288379"
+        },
+        "previous_amount": null,
+        "currency": "CAD",
+        "amount": "3229.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288379",
+          "href": "https://rest.gadventures.com/departures/1288379"
+        },
+        "previous_amount": null,
+        "currency": "CHF",
+        "amount": "2059.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288379",
+          "href": "https://rest.gadventures.com/departures/1288379"
+        },
+        "previous_amount": null,
+        "currency": "CNY",
+        "amount": "18599.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288379",
+          "href": "https://rest.gadventures.com/departures/1288379"
+        },
+        "previous_amount": null,
+        "currency": "EUR",
+        "amount": "2169.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288379",
+          "href": "https://rest.gadventures.com/departures/1288379"
+        },
+        "previous_amount": null,
+        "currency": "GBP",
+        "amount": "1849.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288379",
+          "href": "https://rest.gadventures.com/departures/1288379"
+        },
+        "previous_amount": null,
+        "currency": "HKD",
+        "amount": "19859.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288379",
+          "href": "https://rest.gadventures.com/departures/1288379"
+        },
+        "previous_amount": null,
+        "currency": "JPY",
+        "amount": "399200.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288277",
+          "href": "https://rest.gadventures.com/departures/1288277"
+        },
+        "previous_amount": null,
+        "currency": "KRW",
+        "amount": "3703400.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288379",
+          "href": "https://rest.gadventures.com/departures/1288379"
+        },
+        "previous_amount": null,
+        "currency": "NZD",
+        "amount": "3919.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288379",
+          "href": "https://rest.gadventures.com/departures/1288379"
+        },
+        "previous_amount": null,
+        "currency": "SGD",
+        "amount": "3479.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288379",
+          "href": "https://rest.gadventures.com/departures/1288379"
+        },
+        "previous_amount": null,
+        "currency": "USD",
+        "amount": "2549.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288379",
+          "href": "https://rest.gadventures.com/departures/1288379"
+        },
+        "previous_amount": null,
+        "currency": "ZAR",
+        "amount": "42999.00",
+        "promotion": null
+      }
+    ]
+  },
+  {
+    "id": "24511",
+    "href": "https://rest.gadventures.com/tour_dossiers/24511",
+    "name": "Borneo – East Sabah Adventure",
+    "slug": "borneo-east-sabah-adventure",
+    "product_line": "AAES",
+    "departures_start_date": "2016-05-26",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "2463",
+        "variation_id": "9273",
+        "href": "https://rest.gadventures.com/itineraries/2463/9273",
+        "valid_during_ranges": [
+          {
+            "start_date": "2023-01-18",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "2463",
+        "variation_id": "3514",
+        "href": "https://rest.gadventures.com/itineraries/2463/3514",
+        "valid_during_ranges": [
+          {
+            "start_date": "2016-05-26",
+            "end_date": "2019-12-22"
+          }
+        ]
+      },
+      {
+        "id": "2463",
+        "variation_id": "8014",
+        "href": "https://rest.gadventures.com/itineraries/2463/8014",
+        "valid_during_ranges": [
+          {
+            "start_date": "2019-12-23",
+            "end_date": "2023-01-17"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": [
+      {
+        "room": null,
+        "departure": {
+          "id": "1288686",
+          "href": "https://rest.gadventures.com/departures/1288686"
+        },
+        "previous_amount": null,
+        "currency": "AUD",
+        "amount": "2279.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288686",
+          "href": "https://rest.gadventures.com/departures/1288686"
+        },
+        "previous_amount": null,
+        "currency": "CAD",
+        "amount": "2129.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288686",
+          "href": "https://rest.gadventures.com/departures/1288686"
+        },
+        "previous_amount": null,
+        "currency": "CHF",
+        "amount": "1379.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288686",
+          "href": "https://rest.gadventures.com/departures/1288686"
+        },
+        "previous_amount": null,
+        "currency": "CNY",
+        "amount": "12039.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288686",
+          "href": "https://rest.gadventures.com/departures/1288686"
+        },
+        "previous_amount": null,
+        "currency": "EUR",
+        "amount": "1449.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288686",
+          "href": "https://rest.gadventures.com/departures/1288686"
+        },
+        "previous_amount": null,
+        "currency": "GBP",
+        "amount": "1199.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288686",
+          "href": "https://rest.gadventures.com/departures/1288686"
+        },
+        "previous_amount": null,
+        "currency": "HKD",
+        "amount": "12839.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288686",
+          "href": "https://rest.gadventures.com/departures/1288686"
+        },
+        "previous_amount": null,
+        "currency": "JPY",
+        "amount": "258300.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288686",
+          "href": "https://rest.gadventures.com/departures/1288686"
+        },
+        "previous_amount": null,
+        "currency": "KRW",
+        "amount": "2398200.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288686",
+          "href": "https://rest.gadventures.com/departures/1288686"
+        },
+        "previous_amount": null,
+        "currency": "NZD",
+        "amount": "2539.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288686",
+          "href": "https://rest.gadventures.com/departures/1288686"
+        },
+        "previous_amount": null,
+        "currency": "SGD",
+        "amount": "2259.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288686",
+          "href": "https://rest.gadventures.com/departures/1288686"
+        },
+        "previous_amount": null,
+        "currency": "USD",
+        "amount": "1649.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288686",
+          "href": "https://rest.gadventures.com/departures/1288686"
+        },
+        "previous_amount": null,
+        "currency": "ZAR",
+        "amount": "27899.00",
+        "promotion": null
+      }
+    ]
+  },
+  {
+    "id": "22932",
+    "href": "https://rest.gadventures.com/tour_dossiers/22932",
+    "name": "Best of Borneo",
+    "slug": "best-of-borneo",
+    "product_line": "AAHB",
+    "departures_start_date": "2015-01-01",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "1006",
+        "variation_id": "2526",
+        "href": "https://rest.gadventures.com/itineraries/1006/2526",
+        "valid_during_ranges": [
+          {
+            "start_date": "2015-07-01",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "1006",
+        "variation_id": "1262",
+        "href": "https://rest.gadventures.com/itineraries/1006/1262",
+        "valid_during_ranges": [
+          {
+            "start_date": "2015-01-01",
+            "end_date": "2015-06-30"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "23639",
+    "href": "https://rest.gadventures.com/tour_dossiers/23639",
+    "name": "Kuala Lumpur to Bangkok Adventure",
+    "slug": "kuala-lumpur-to-bangkok-adventure",
+    "product_line": "AAKB",
+    "departures_start_date": "2016-01-01",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "2088",
+        "variation_id": "4065",
+        "href": "https://rest.gadventures.com/itineraries/2088/4065",
+        "valid_during_ranges": [
+          {
+            "start_date": "2017-01-01",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "2088",
+        "variation_id": "4852",
+        "href": "https://rest.gadventures.com/itineraries/2088/4852",
+        "valid_during_ranges": [
+          {
+            "start_date": "2016-11-24",
+            "end_date": "2016-12-31"
+          }
+        ]
+      },
+      {
+        "id": "2088",
+        "variation_id": "672",
+        "href": "https://rest.gadventures.com/itineraries/2088/672",
+        "valid_during_ranges": [
+          {
+            "start_date": "2016-01-01",
+            "end_date": "2016-11-23"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "23640",
+    "href": "https://rest.gadventures.com/tour_dossiers/23640",
+    "name": "Southeast Asia Uncovered",
+    "slug": "southeast-asia-uncovered",
+    "product_line": "AAKC",
+    "departures_start_date": "2015-05-21",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "2089",
+        "variation_id": "3190",
+        "href": "https://rest.gadventures.com/itineraries/2089/3190",
+        "valid_during_ranges": [
+          {
+            "start_date": "2016-02-26",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "2089",
+        "variation_id": "890",
+        "href": "https://rest.gadventures.com/itineraries/2089/890",
+        "valid_during_ranges": [
+          {
+            "start_date": "2015-05-21",
+            "end_date": "2016-02-25"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "24508",
+    "href": "https://rest.gadventures.com/tour_dossiers/24508",
+    "name": "Trek Mt Kinabalu",
+    "slug": "trek-mt-kinabalu",
+    "product_line": "AAMK",
+    "departures_start_date": "2016-05-26",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "2460",
+        "variation_id": "3511",
+        "href": "https://rest.gadventures.com/itineraries/2460/3511",
+        "valid_during_ranges": [
+          {
+            "start_date": "2016-05-26",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": [
+      {
+        "room": null,
+        "departure": {
+          "id": "1288774",
+          "href": "https://rest.gadventures.com/departures/1288774"
+        },
+        "previous_amount": null,
+        "currency": "AUD",
+        "amount": "1599.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288774",
+          "href": "https://rest.gadventures.com/departures/1288774"
+        },
+        "previous_amount": null,
+        "currency": "CAD",
+        "amount": "1499.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288787",
+          "href": "https://rest.gadventures.com/departures/1288787"
+        },
+        "previous_amount": null,
+        "currency": "CHF",
+        "amount": "999.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288774",
+          "href": "https://rest.gadventures.com/departures/1288774"
+        },
+        "previous_amount": null,
+        "currency": "CNY",
+        "amount": "8539.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288787",
+          "href": "https://rest.gadventures.com/departures/1288787"
+        },
+        "previous_amount": null,
+        "currency": "EUR",
+        "amount": "1049.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288787",
+          "href": "https://rest.gadventures.com/departures/1288787"
+        },
+        "previous_amount": null,
+        "currency": "GBP",
+        "amount": "899.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288787",
+          "href": "https://rest.gadventures.com/departures/1288787"
+        },
+        "previous_amount": null,
+        "currency": "HKD",
+        "amount": "9339.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288774",
+          "href": "https://rest.gadventures.com/departures/1288774"
+        },
+        "previous_amount": null,
+        "currency": "JPY",
+        "amount": "172500.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288774",
+          "href": "https://rest.gadventures.com/departures/1288774"
+        },
+        "previous_amount": null,
+        "currency": "KRW",
+        "amount": "1560900.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288774",
+          "href": "https://rest.gadventures.com/departures/1288774"
+        },
+        "previous_amount": null,
+        "currency": "NZD",
+        "amount": "1739.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288774",
+          "href": "https://rest.gadventures.com/departures/1288774"
+        },
+        "previous_amount": null,
+        "currency": "SGD",
+        "amount": "1599.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288774",
+          "href": "https://rest.gadventures.com/departures/1288774"
+        },
+        "previous_amount": null,
+        "currency": "USD",
+        "amount": "1199.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1288774",
+          "href": "https://rest.gadventures.com/departures/1288774"
+        },
+        "previous_amount": null,
+        "currency": "ZAR",
+        "amount": "20099.00",
+        "promotion": null
+      }
+    ]
+  },
+  {
+    "id": "22777",
+    "href": "https://rest.gadventures.com/tour_dossiers/22777",
+    "name": "Borneo – Sabah Adventure",
+    "slug": "borneo-sabah-adventure",
+    "product_line": "AASA",
+    "departures_start_date": "2015-01-01",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "833",
+        "variation_id": "1138",
+        "href": "https://rest.gadventures.com/itineraries/833/1138",
+        "valid_during_ranges": [
+          {
+            "start_date": "2015-01-01",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "24550",
+    "href": "https://rest.gadventures.com/tour_dossiers/24550",
+    "name": "Highlights of Borneo",
+    "slug": "highlights-of-borneo",
+    "product_line": "AAWW",
+    "departures_start_date": "2016-06-05",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "2520",
+        "variation_id": "7959",
+        "href": "https://rest.gadventures.com/itineraries/2520/7959",
+        "valid_during_ranges": [
+          {
+            "start_date": "2019-11-25",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "2520",
+        "variation_id": "3685",
+        "href": "https://rest.gadventures.com/itineraries/2520/3685",
+        "valid_during_ranges": [
+          {
+            "start_date": "2016-06-05",
+            "end_date": "2018-10-15"
+          }
+        ]
+      },
+      {
+        "id": "2520",
+        "variation_id": "6587",
+        "href": "https://rest.gadventures.com/itineraries/2520/6587",
+        "valid_during_ranges": [
+          {
+            "start_date": "2018-10-16",
+            "end_date": "2019-11-24"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "23720",
+    "href": "https://rest.gadventures.com/tour_dossiers/23720",
+    "name": "The Heart of Myanmar (Burma)",
+    "slug": "the-heart-of-myanmar-burma",
+    "product_line": "ABANG",
+    "departures_start_date": "2015-07-10",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "2216",
+        "variation_id": "5840",
+        "href": "https://rest.gadventures.com/itineraries/2216/5840",
+        "valid_during_ranges": [
+          {
+            "start_date": "2017-07-12",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "2216",
+        "variation_id": "4276",
+        "href": "https://rest.gadventures.com/itineraries/2216/4276",
+        "valid_during_ranges": [
+          {
+            "start_date": "2017-01-01",
+            "end_date": "2017-02-07"
+          }
+        ]
+      },
+      {
+        "id": "2216",
+        "variation_id": "3895",
+        "href": "https://rest.gadventures.com/itineraries/2216/3895",
+        "valid_during_ranges": [
+          {
+            "start_date": "2016-07-08",
+            "end_date": "2016-12-31"
+          }
+        ]
+      },
+      {
+        "id": "2216",
+        "variation_id": "2555",
+        "href": "https://rest.gadventures.com/itineraries/2216/2555",
+        "valid_during_ranges": [
+          {
+            "start_date": "2015-07-10",
+            "end_date": "2016-07-07"
+          }
+        ]
+      },
+      {
+        "id": "2216",
+        "variation_id": "4903",
+        "href": "https://rest.gadventures.com/itineraries/2216/4903",
+        "valid_during_ranges": [
+          {
+            "start_date": "2017-02-08",
+            "end_date": "2017-07-11"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "22778",
+    "href": "https://rest.gadventures.com/tour_dossiers/22778",
+    "name": "Classic Myanmar Adventure",
+    "slug": "classic-myanmar-burma-adventure",
+    "product_line": "ABCB",
+    "departures_start_date": "2017-01-01",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "838",
+        "variation_id": "6311",
+        "href": "https://rest.gadventures.com/itineraries/838/6311",
+        "valid_during_ranges": [
+          {
+            "start_date": "2019-01-01",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "838",
+        "variation_id": "4302",
+        "href": "https://rest.gadventures.com/itineraries/838/4302",
+        "valid_during_ranges": [
+          {
+            "start_date": "2017-01-01",
+            "end_date": "2017-09-08"
+          }
+        ]
+      },
+      {
+        "id": "838",
+        "variation_id": "5571",
+        "href": "https://rest.gadventures.com/itineraries/838/5571",
+        "valid_during_ranges": [
+          {
+            "start_date": "2017-09-09",
+            "end_date": "2018-12-31"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "23272",
+    "href": "https://rest.gadventures.com/tour_dossiers/23272",
+    "name": "Burma Family Adventure",
+    "slug": "burma-family-adventure",
+    "product_line": "ABFA",
+    "departures_start_date": "2015-01-01",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "1740",
+        "variation_id": "242",
+        "href": "https://rest.gadventures.com/itineraries/1740/242",
+        "valid_during_ranges": [
+          {
+            "start_date": "2015-01-01",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "26124",
+    "href": "https://rest.gadventures.com/tour_dossiers/26124",
+    "name": "China: Big Cities & Iconic Culture",
+    "slug": "china-big-cities-and-iconic-culture",
+    "product_line": "ACBA",
+    "departures_start_date": "2024-06-07",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "4555",
+        "variation_id": "9939",
+        "href": "https://rest.gadventures.com/itineraries/4555/9939",
+        "valid_during_ranges": [
+          {
+            "start_date": "2024-06-07",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": [
+      {
+        "room": null,
+        "departure": {
+          "id": "1364797",
+          "href": "https://rest.gadventures.com/departures/1364797"
+        },
+        "previous_amount": null,
+        "currency": "AUD",
+        "amount": "2199.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364797",
+          "href": "https://rest.gadventures.com/departures/1364797"
+        },
+        "previous_amount": null,
+        "currency": "CAD",
+        "amount": "1999.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364797",
+          "href": "https://rest.gadventures.com/departures/1364797"
+        },
+        "previous_amount": null,
+        "currency": "CHF",
+        "amount": "1279.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364797",
+          "href": "https://rest.gadventures.com/departures/1364797"
+        },
+        "previous_amount": null,
+        "currency": "CNY",
+        "amount": "10939.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364797",
+          "href": "https://rest.gadventures.com/departures/1364797"
+        },
+        "previous_amount": null,
+        "currency": "EUR",
+        "amount": "1349.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364797",
+          "href": "https://rest.gadventures.com/departures/1364797"
+        },
+        "previous_amount": null,
+        "currency": "GBP",
+        "amount": "1179.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364797",
+          "href": "https://rest.gadventures.com/departures/1364797"
+        },
+        "previous_amount": null,
+        "currency": "HKD",
+        "amount": "11679.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364797",
+          "href": "https://rest.gadventures.com/departures/1364797"
+        },
+        "previous_amount": null,
+        "currency": "JPY",
+        "amount": "234800.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364797",
+          "href": "https://rest.gadventures.com/departures/1364797"
+        },
+        "previous_amount": null,
+        "currency": "KRW",
+        "amount": "2180000.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364797",
+          "href": "https://rest.gadventures.com/departures/1364797"
+        },
+        "previous_amount": null,
+        "currency": "NZD",
+        "amount": "2439.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364797",
+          "href": "https://rest.gadventures.com/departures/1364797"
+        },
+        "previous_amount": null,
+        "currency": "SGD",
+        "amount": "2059.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364797",
+          "href": "https://rest.gadventures.com/departures/1364797"
+        },
+        "previous_amount": null,
+        "currency": "USD",
+        "amount": "1499.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364797",
+          "href": "https://rest.gadventures.com/departures/1364797"
+        },
+        "previous_amount": null,
+        "currency": "ZAR",
+        "amount": "25299.00",
+        "promotion": null
+      }
+    ]
+  },
+  {
+    "id": "22999",
+    "href": "https://rest.gadventures.com/tour_dossiers/22999",
+    "name": "Best of China",
+    "slug": "best-of-china",
+    "product_line": "ACBC",
+    "departures_start_date": "2015-01-01",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "717",
+        "variation_id": "1002",
+        "href": "https://rest.gadventures.com/itineraries/717/1002",
+        "valid_during_ranges": [
+          {
+            "start_date": "2015-01-01",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "2217",
+        "variation_id": "2556",
+        "href": "https://rest.gadventures.com/itineraries/2217/2556",
+        "valid_during_ranges": [
+          {
+            "start_date": "2015-07-10",
+            "end_date": "2016-04-04"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "26151",
+    "href": "https://rest.gadventures.com/tour_dossiers/26151",
+    "name": "Beijing to Kunming: Undiscovered China",
+    "slug": "beijing-to-kunming-undiscovered-china",
+    "product_line": "ACBD",
+    "departures_start_date": "2024-07-19",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "4597",
+        "variation_id": "10007",
+        "href": "https://rest.gadventures.com/itineraries/4597/10007",
+        "valid_during_ranges": [
+          {
+            "start_date": "2024-07-19",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": [
+      {
+        "room": null,
+        "departure": {
+          "id": "1397353",
+          "href": "https://rest.gadventures.com/departures/1397353"
+        },
+        "previous_amount": null,
+        "currency": "AUD",
+        "amount": "3599.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397353",
+          "href": "https://rest.gadventures.com/departures/1397353"
+        },
+        "previous_amount": null,
+        "currency": "CAD",
+        "amount": "3319.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397353",
+          "href": "https://rest.gadventures.com/departures/1397353"
+        },
+        "previous_amount": null,
+        "currency": "CHF",
+        "amount": "2079.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397353",
+          "href": "https://rest.gadventures.com/departures/1397353"
+        },
+        "previous_amount": null,
+        "currency": "CNY",
+        "amount": "17519.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397353",
+          "href": "https://rest.gadventures.com/departures/1397353"
+        },
+        "previous_amount": null,
+        "currency": "EUR",
+        "amount": "2199.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397353",
+          "href": "https://rest.gadventures.com/departures/1397353"
+        },
+        "previous_amount": null,
+        "currency": "GBP",
+        "amount": "1849.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397353",
+          "href": "https://rest.gadventures.com/departures/1397353"
+        },
+        "previous_amount": null,
+        "currency": "HKD",
+        "amount": "18679.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397353",
+          "href": "https://rest.gadventures.com/departures/1397353"
+        },
+        "previous_amount": null,
+        "currency": "JPY",
+        "amount": "375700.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397353",
+          "href": "https://rest.gadventures.com/departures/1397353"
+        },
+        "previous_amount": null,
+        "currency": "KRW",
+        "amount": "3488900.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397353",
+          "href": "https://rest.gadventures.com/departures/1397353"
+        },
+        "previous_amount": null,
+        "currency": "NZD",
+        "amount": "3999.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397353",
+          "href": "https://rest.gadventures.com/departures/1397353"
+        },
+        "previous_amount": null,
+        "currency": "SGD",
+        "amount": "3279.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397353",
+          "href": "https://rest.gadventures.com/departures/1397353"
+        },
+        "previous_amount": null,
+        "currency": "USD",
+        "amount": "2399.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397353",
+          "href": "https://rest.gadventures.com/departures/1397353"
+        },
+        "previous_amount": null,
+        "currency": "ZAR",
+        "amount": "40499.00",
+        "promotion": null
+      }
+    ]
+  },
+  {
+    "id": "23378",
+    "href": "https://rest.gadventures.com/tour_dossiers/23378",
+    "name": "Beijing to Hong Kong: Great Wall & Warriors",
+    "slug": "beijing-to-hong-kong-fujian-tour",
+    "product_line": "ACBF",
+    "departures_start_date": "2015-01-01",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "1638",
+        "variation_id": "7315",
+        "href": "https://rest.gadventures.com/itineraries/1638/7315",
+        "valid_during_ranges": [
+          {
+            "start_date": "2020-06-15",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "1638",
+        "variation_id": "1404",
+        "href": "https://rest.gadventures.com/itineraries/1638/1404",
+        "valid_during_ranges": [
+          {
+            "start_date": "2015-01-01",
+            "end_date": "2016-12-31"
+          }
+        ]
+      },
+      {
+        "id": "1638",
+        "variation_id": "3550",
+        "href": "https://rest.gadventures.com/itineraries/1638/3550",
+        "valid_during_ranges": [
+          {
+            "start_date": "2017-01-01",
+            "end_date": "2017-12-14"
+          }
+        ]
+      },
+      {
+        "id": "1638",
+        "variation_id": "5494",
+        "href": "https://rest.gadventures.com/itineraries/1638/5494",
+        "valid_during_ranges": [
+          {
+            "start_date": "2017-12-15",
+            "end_date": "2018-12-31"
+          }
+        ]
+      },
+      {
+        "id": "1638",
+        "variation_id": "6638",
+        "href": "https://rest.gadventures.com/itineraries/1638/6638",
+        "valid_during_ranges": [
+          {
+            "start_date": "2019-01-01",
+            "end_date": "2020-06-14"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "23198",
+    "href": "https://rest.gadventures.com/tour_dossiers/23198",
+    "name": "Beijing to Shanghai: The Great Wall & Terracotta Warriors",
+    "slug": "beijing-to-shanghai-tour",
+    "product_line": "ACBI",
+    "departures_start_date": "2015-01-01",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "1119",
+        "variation_id": "7365",
+        "href": "https://rest.gadventures.com/itineraries/1119/7365",
+        "valid_during_ranges": [
+          {
+            "start_date": "2020-06-15",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "1119",
+        "variation_id": "338",
+        "href": "https://rest.gadventures.com/itineraries/1119/338",
+        "valid_during_ranges": [
+          {
+            "start_date": "2015-01-01",
+            "end_date": "2016-12-31"
+          }
+        ]
+      },
+      {
+        "id": "1119",
+        "variation_id": "4409",
+        "href": "https://rest.gadventures.com/itineraries/1119/4409",
+        "valid_during_ranges": [
+          {
+            "start_date": "2017-01-01",
+            "end_date": "2020-06-14"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "23721",
+    "href": "https://rest.gadventures.com/tour_dossiers/23721",
+    "name": "Best of China",
+    "slug": "best-of-china",
+    "product_line": "ACBNG",
+    "departures_start_date": "2015-07-10",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "2217",
+        "variation_id": "8146",
+        "href": "https://rest.gadventures.com/itineraries/2217/8146",
+        "valid_during_ranges": [
+          {
+            "start_date": "2020-02-26",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "2217",
+        "variation_id": "2556",
+        "href": "https://rest.gadventures.com/itineraries/2217/2556",
+        "valid_during_ranges": [
+          {
+            "start_date": "2015-07-10",
+            "end_date": "2016-04-04"
+          }
+        ]
+      },
+      {
+        "id": "2217",
+        "variation_id": "3249",
+        "href": "https://rest.gadventures.com/itineraries/2217/3249",
+        "valid_during_ranges": [
+          {
+            "start_date": "2016-04-05",
+            "end_date": "2016-12-31"
+          }
+        ]
+      },
+      {
+        "id": "2217",
+        "variation_id": "3367",
+        "href": "https://rest.gadventures.com/itineraries/2217/3367",
+        "valid_during_ranges": [
+          {
+            "start_date": "2017-01-01",
+            "end_date": "2018-12-31"
+          }
+        ]
+      },
+      {
+        "id": "2217",
+        "variation_id": "6518",
+        "href": "https://rest.gadventures.com/itineraries/2217/6518",
+        "valid_during_ranges": [
+          {
+            "start_date": "2019-01-01",
+            "end_date": "2020-02-25"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "22598",
+    "href": "https://rest.gadventures.com/tour_dossiers/22598",
+    "name": "Beijing to Hong Kong Express",
+    "slug": "beijing-to-hong-kong-express",
+    "product_line": "ACBR",
+    "departures_start_date": "2015-01-01",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "731",
+        "variation_id": "1600",
+        "href": "https://rest.gadventures.com/itineraries/731/1600",
+        "valid_during_ranges": [
+          {
+            "start_date": "2015-01-01",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "24583",
+    "href": "https://rest.gadventures.com/tour_dossiers/24583",
+    "name": "Beijing to Hong Kong on a Shoestring",
+    "slug": "beijing-to-hong-kong-on-a-shoestring",
+    "product_line": "ACBS",
+    "departures_start_date": "2016-06-09",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "2571",
+        "variation_id": "3752",
+        "href": "https://rest.gadventures.com/itineraries/2571/3752",
+        "valid_during_ranges": [
+          {
+            "start_date": "2016-06-09",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "26117",
+    "href": "https://rest.gadventures.com/tour_dossiers/26117",
+    "name": "Ancient China",
+    "slug": "ancient-china",
+    "product_line": "ACBX",
+    "departures_start_date": "2024-05-30",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "4543",
+        "variation_id": "9910",
+        "href": "https://rest.gadventures.com/itineraries/4543/9910",
+        "valid_during_ranges": [
+          {
+            "start_date": "2024-05-30",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": [
+      {
+        "room": null,
+        "departure": {
+          "id": "1364102",
+          "href": "https://rest.gadventures.com/departures/1364102"
+        },
+        "previous_amount": null,
+        "currency": "AUD",
+        "amount": "1949.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364102",
+          "href": "https://rest.gadventures.com/departures/1364102"
+        },
+        "previous_amount": null,
+        "currency": "CAD",
+        "amount": "1749.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364102",
+          "href": "https://rest.gadventures.com/departures/1364102"
+        },
+        "previous_amount": null,
+        "currency": "CHF",
+        "amount": "1139.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364102",
+          "href": "https://rest.gadventures.com/departures/1364102"
+        },
+        "previous_amount": null,
+        "currency": "CNY",
+        "amount": "10219.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364102",
+          "href": "https://rest.gadventures.com/departures/1364102"
+        },
+        "previous_amount": null,
+        "currency": "EUR",
+        "amount": "1199.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364102",
+          "href": "https://rest.gadventures.com/departures/1364102"
+        },
+        "previous_amount": null,
+        "currency": "GBP",
+        "amount": "1049.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364102",
+          "href": "https://rest.gadventures.com/departures/1364102"
+        },
+        "previous_amount": null,
+        "currency": "HKD",
+        "amount": "10899.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364102",
+          "href": "https://rest.gadventures.com/departures/1364102"
+        },
+        "previous_amount": null,
+        "currency": "JPY",
+        "amount": "219100.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364088",
+          "href": "https://rest.gadventures.com/departures/1364088"
+        },
+        "previous_amount": null,
+        "currency": "KRW",
+        "amount": "2001800.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364102",
+          "href": "https://rest.gadventures.com/departures/1364102"
+        },
+        "previous_amount": null,
+        "currency": "NZD",
+        "amount": "2159.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364102",
+          "href": "https://rest.gadventures.com/departures/1364102"
+        },
+        "previous_amount": null,
+        "currency": "SGD",
+        "amount": "1919.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364102",
+          "href": "https://rest.gadventures.com/departures/1364102"
+        },
+        "previous_amount": null,
+        "currency": "USD",
+        "amount": "1399.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364102",
+          "href": "https://rest.gadventures.com/departures/1364102"
+        },
+        "previous_amount": null,
+        "currency": "ZAR",
+        "amount": "23599.00",
+        "promotion": null
+      }
+    ]
+  },
+  {
+    "id": "22779",
+    "href": "https://rest.gadventures.com/tour_dossiers/22779",
+    "name": "Best of Yunnan",
+    "slug": "best-of-yunnan",
+    "product_line": "ACBY",
+    "departures_start_date": "2015-01-01",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "1034",
+        "variation_id": "1958",
+        "href": "https://rest.gadventures.com/itineraries/1034/1958",
+        "valid_during_ranges": [
+          {
+            "start_date": "2015-01-01",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "26114",
+    "href": "https://rest.gadventures.com/tour_dossiers/26114",
+    "name": "China: Natural Sites & City Lights",
+    "slug": "china-natural-sites-and-city-lights",
+    "product_line": "ACBZ",
+    "departures_start_date": "2024-05-28",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "4539",
+        "variation_id": "9904",
+        "href": "https://rest.gadventures.com/itineraries/4539/9904",
+        "valid_during_ranges": [
+          {
+            "start_date": "2024-05-28",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": [
+      {
+        "room": null,
+        "departure": {
+          "id": "1425904",
+          "href": "https://rest.gadventures.com/departures/1425904"
+        },
+        "previous_amount": null,
+        "currency": "AUD",
+        "amount": "2079.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1425904",
+          "href": "https://rest.gadventures.com/departures/1425904"
+        },
+        "previous_amount": null,
+        "currency": "CAD",
+        "amount": "1829.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1425904",
+          "href": "https://rest.gadventures.com/departures/1425904"
+        },
+        "previous_amount": null,
+        "currency": "CHF",
+        "amount": "1179.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1425904",
+          "href": "https://rest.gadventures.com/departures/1425904"
+        },
+        "previous_amount": null,
+        "currency": "CNY",
+        "amount": "10939.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1425904",
+          "href": "https://rest.gadventures.com/departures/1425904"
+        },
+        "previous_amount": null,
+        "currency": "EUR",
+        "amount": "1249.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1425904",
+          "href": "https://rest.gadventures.com/departures/1425904"
+        },
+        "previous_amount": null,
+        "currency": "GBP",
+        "amount": "1099.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1425904",
+          "href": "https://rest.gadventures.com/departures/1425904"
+        },
+        "previous_amount": null,
+        "currency": "HKD",
+        "amount": "11679.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1425904",
+          "href": "https://rest.gadventures.com/departures/1425904"
+        },
+        "previous_amount": null,
+        "currency": "JPY",
+        "amount": "234800.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364850",
+          "href": "https://rest.gadventures.com/departures/1364850"
+        },
+        "previous_amount": null,
+        "currency": "KRW",
+        "amount": "2112300.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364850",
+          "href": "https://rest.gadventures.com/departures/1364850"
+        },
+        "previous_amount": null,
+        "currency": "NZD",
+        "amount": "2319.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1425904",
+          "href": "https://rest.gadventures.com/departures/1425904"
+        },
+        "previous_amount": null,
+        "currency": "SGD",
+        "amount": "2059.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1425904",
+          "href": "https://rest.gadventures.com/departures/1425904"
+        },
+        "previous_amount": null,
+        "currency": "USD",
+        "amount": "1499.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1425904",
+          "href": "https://rest.gadventures.com/departures/1425904"
+        },
+        "previous_amount": null,
+        "currency": "ZAR",
+        "amount": "25299.00",
+        "promotion": null
+      }
+    ]
+  },
+  {
+    "id": "26155",
+    "href": "https://rest.gadventures.com/tour_dossiers/26155",
+    "name": "China & Vietnam: Chengdu to Ho Chi Minh",
+    "slug": "china-and-vietnam-chengdu-to-ho-chi-minh",
+    "product_line": "ACCH",
+    "departures_start_date": "2024-07-19",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "4601",
+        "variation_id": "10011",
+        "href": "https://rest.gadventures.com/itineraries/4601/10011",
+        "valid_during_ranges": [
+          {
+            "start_date": "2024-07-19",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": [
+      {
+        "room": null,
+        "departure": {
+          "id": "1397421",
+          "href": "https://rest.gadventures.com/departures/1397421"
+        },
+        "previous_amount": null,
+        "currency": "AUD",
+        "amount": "4799.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397421",
+          "href": "https://rest.gadventures.com/departures/1397421"
+        },
+        "previous_amount": null,
+        "currency": "CAD",
+        "amount": "4399.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397421",
+          "href": "https://rest.gadventures.com/departures/1397421"
+        },
+        "previous_amount": null,
+        "currency": "CHF",
+        "amount": "2779.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397421",
+          "href": "https://rest.gadventures.com/departures/1397421"
+        },
+        "previous_amount": null,
+        "currency": "CNY",
+        "amount": "24439.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397421",
+          "href": "https://rest.gadventures.com/departures/1397421"
+        },
+        "previous_amount": null,
+        "currency": "EUR",
+        "amount": "2949.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397421",
+          "href": "https://rest.gadventures.com/departures/1397421"
+        },
+        "previous_amount": null,
+        "currency": "GBP",
+        "amount": "2499.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397421",
+          "href": "https://rest.gadventures.com/departures/1397421"
+        },
+        "previous_amount": null,
+        "currency": "HKD",
+        "amount": "26079.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397421",
+          "href": "https://rest.gadventures.com/departures/1397421"
+        },
+        "previous_amount": null,
+        "currency": "JPY",
+        "amount": "524500.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397421",
+          "href": "https://rest.gadventures.com/departures/1397421"
+        },
+        "previous_amount": null,
+        "currency": "KRW",
+        "amount": "4870500.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397421",
+          "href": "https://rest.gadventures.com/departures/1397421"
+        },
+        "previous_amount": null,
+        "currency": "NZD",
+        "amount": "5319.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397421",
+          "href": "https://rest.gadventures.com/departures/1397421"
+        },
+        "previous_amount": null,
+        "currency": "SGD",
+        "amount": "4579.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397421",
+          "href": "https://rest.gadventures.com/departures/1397421"
+        },
+        "previous_amount": null,
+        "currency": "USD",
+        "amount": "3349.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397421",
+          "href": "https://rest.gadventures.com/departures/1397421"
+        },
+        "previous_amount": null,
+        "currency": "ZAR",
+        "amount": "56499.00",
+        "promotion": null
+      }
+    ]
+  },
+  {
+    "id": "22940",
+    "href": "https://rest.gadventures.com/tour_dossiers/22940",
+    "name": "Beijing to Tokyo: The Great Wall & Mt Fuji",
+    "slug": "beijing-to-tokyo-the-great-wall-and-mt-fuji",
+    "product_line": "ACCJ",
+    "departures_start_date": "2015-01-01",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "1621",
+        "variation_id": "9663",
+        "href": "https://rest.gadventures.com/itineraries/1621/9663",
+        "valid_during_ranges": [
+          {
+            "start_date": "2025-01-01",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "1621",
+        "variation_id": "1710",
+        "href": "https://rest.gadventures.com/itineraries/1621/1710",
+        "valid_during_ranges": [
+          {
+            "start_date": "2015-01-01",
+            "end_date": "2017-01-06"
+          }
+        ]
+      },
+      {
+        "id": "1621",
+        "variation_id": "3601",
+        "href": "https://rest.gadventures.com/itineraries/1621/3601",
+        "valid_during_ranges": [
+          {
+            "start_date": "2017-01-07",
+            "end_date": "2017-12-31"
+          }
+        ]
+      },
+      {
+        "id": "1621",
+        "variation_id": "5564",
+        "href": "https://rest.gadventures.com/itineraries/1621/5564",
+        "valid_during_ranges": [
+          {
+            "start_date": "2018-01-01",
+            "end_date": "2019-12-31"
+          }
+        ]
+      },
+      {
+        "id": "1621",
+        "variation_id": "7317",
+        "href": "https://rest.gadventures.com/itineraries/1621/7317",
+        "valid_during_ranges": [
+          {
+            "start_date": "2020-01-01",
+            "end_date": "2023-01-12"
+          }
+        ]
+      },
+      {
+        "id": "1621",
+        "variation_id": "9272",
+        "href": "https://rest.gadventures.com/itineraries/1621/9272",
+        "valid_during_ranges": [
+          {
+            "start_date": "2023-01-13",
+            "end_date": "2023-12-18"
+          }
+        ]
+      },
+      {
+        "id": "1621",
+        "variation_id": "9643",
+        "href": "https://rest.gadventures.com/itineraries/1621/9643",
+        "valid_during_ranges": [
+          {
+            "start_date": "2023-12-19",
+            "end_date": "2024-12-31"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": [
+      {
+        "room": null,
+        "departure": {
+          "id": "1344725",
+          "href": "https://rest.gadventures.com/departures/1344725"
+        },
+        "previous_amount": null,
+        "currency": "AUD",
+        "amount": "7099.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1344725",
+          "href": "https://rest.gadventures.com/departures/1344725"
+        },
+        "previous_amount": null,
+        "currency": "CAD",
+        "amount": "6449.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1344725",
+          "href": "https://rest.gadventures.com/departures/1344725"
+        },
+        "previous_amount": null,
+        "currency": "CHF",
+        "amount": "4199.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1344725",
+          "href": "https://rest.gadventures.com/departures/1344725"
+        },
+        "previous_amount": null,
+        "currency": "CNY",
+        "amount": "37939.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1344725",
+          "href": "https://rest.gadventures.com/departures/1344725"
+        },
+        "previous_amount": null,
+        "currency": "EUR",
+        "amount": "4449.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1344725",
+          "href": "https://rest.gadventures.com/departures/1344725"
+        },
+        "previous_amount": null,
+        "currency": "GBP",
+        "amount": "3849.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1344725",
+          "href": "https://rest.gadventures.com/departures/1344725"
+        },
+        "previous_amount": null,
+        "currency": "HKD",
+        "amount": "40479.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1281366",
+          "href": "https://rest.gadventures.com/departures/1281366"
+        },
+        "previous_amount": null,
+        "currency": "JPY",
+        "amount": "793100.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1281366",
+          "href": "https://rest.gadventures.com/departures/1281366"
+        },
+        "previous_amount": null,
+        "currency": "KRW",
+        "amount": "7055900.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1344725",
+          "href": "https://rest.gadventures.com/departures/1344725"
+        },
+        "previous_amount": null,
+        "currency": "NZD",
+        "amount": "7859.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1344725",
+          "href": "https://rest.gadventures.com/departures/1344725"
+        },
+        "previous_amount": null,
+        "currency": "SGD",
+        "amount": "7099.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1344725",
+          "href": "https://rest.gadventures.com/departures/1344725"
+        },
+        "previous_amount": null,
+        "currency": "USD",
+        "amount": "5199.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1344725",
+          "href": "https://rest.gadventures.com/departures/1344725"
+        },
+        "previous_amount": null,
+        "currency": "ZAR",
+        "amount": "87699.00",
+        "promotion": null
+      }
+    ]
+  },
+  {
+    "id": "22941",
+    "href": "https://rest.gadventures.com/tour_dossiers/22941",
+    "name": "China Express",
+    "slug": "china-express",
+    "product_line": "ACCR",
+    "departures_start_date": "2015-01-01",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "1120",
+        "variation_id": "9661",
+        "href": "https://rest.gadventures.com/itineraries/1120/9661",
+        "valid_during_ranges": [
+          {
+            "start_date": "2025-01-01",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "1120",
+        "variation_id": "2378",
+        "href": "https://rest.gadventures.com/itineraries/1120/2378",
+        "valid_during_ranges": [
+          {
+            "start_date": "2015-01-01",
+            "end_date": "2017-01-06"
+          }
+        ]
+      },
+      {
+        "id": "1120",
+        "variation_id": "3599",
+        "href": "https://rest.gadventures.com/itineraries/1120/3599",
+        "valid_during_ranges": [
+          {
+            "start_date": "2017-01-07",
+            "end_date": "2017-12-14"
+          }
+        ]
+      },
+      {
+        "id": "1120",
+        "variation_id": "5522",
+        "href": "https://rest.gadventures.com/itineraries/1120/5522",
+        "valid_during_ranges": [
+          {
+            "start_date": "2017-12-15",
+            "end_date": "2019-12-31"
+          }
+        ]
+      },
+      {
+        "id": "1120",
+        "variation_id": "7136",
+        "href": "https://rest.gadventures.com/itineraries/1120/7136",
+        "valid_during_ranges": [
+          {
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31"
+          }
+        ]
+      },
+      {
+        "id": "1120",
+        "variation_id": "8361",
+        "href": "https://rest.gadventures.com/itineraries/1120/8361",
+        "valid_during_ranges": [
+          {
+            "start_date": "2021-01-01",
+            "end_date": "2024-12-31"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": [
+      {
+        "room": null,
+        "departure": {
+          "id": "1281462",
+          "href": "https://rest.gadventures.com/departures/1281462"
+        },
+        "previous_amount": null,
+        "currency": "AUD",
+        "amount": "2129.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1281462",
+          "href": "https://rest.gadventures.com/departures/1281462"
+        },
+        "previous_amount": null,
+        "currency": "CAD",
+        "amount": "1929.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1281462",
+          "href": "https://rest.gadventures.com/departures/1281462"
+        },
+        "previous_amount": null,
+        "currency": "CHF",
+        "amount": "1259.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1281462",
+          "href": "https://rest.gadventures.com/departures/1281462"
+        },
+        "previous_amount": null,
+        "currency": "CNY",
+        "amount": "11519.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1281462",
+          "href": "https://rest.gadventures.com/departures/1281462"
+        },
+        "previous_amount": null,
+        "currency": "EUR",
+        "amount": "1329.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1281462",
+          "href": "https://rest.gadventures.com/departures/1281462"
+        },
+        "previous_amount": null,
+        "currency": "GBP",
+        "amount": "1129.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1281462",
+          "href": "https://rest.gadventures.com/departures/1281462"
+        },
+        "previous_amount": null,
+        "currency": "HKD",
+        "amount": "12299.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1281462",
+          "href": "https://rest.gadventures.com/departures/1281462"
+        },
+        "previous_amount": null,
+        "currency": "JPY",
+        "amount": "247300.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1281367",
+          "href": "https://rest.gadventures.com/departures/1281367"
+        },
+        "previous_amount": null,
+        "currency": "KRW",
+        "amount": "2279600.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1281462",
+          "href": "https://rest.gadventures.com/departures/1281462"
+        },
+        "previous_amount": null,
+        "currency": "NZD",
+        "amount": "2359.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1281462",
+          "href": "https://rest.gadventures.com/departures/1281462"
+        },
+        "previous_amount": null,
+        "currency": "SGD",
+        "amount": "2159.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1281462",
+          "href": "https://rest.gadventures.com/departures/1281462"
+        },
+        "previous_amount": null,
+        "currency": "USD",
+        "amount": "1579.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1281462",
+          "href": "https://rest.gadventures.com/departures/1281462"
+        },
+        "previous_amount": null,
+        "currency": "ZAR",
+        "amount": "26699.00",
+        "promotion": null
+      }
+    ]
+  },
+  {
+    "id": "26153",
+    "href": "https://rest.gadventures.com/tour_dossiers/26153",
+    "name": "China & Vietnam: The Great Wall to Ho Chi Minh",
+    "slug": "china-and-vietnam-the-great-wall-to-ho-chi-minh",
+    "product_line": "ACCV",
+    "departures_start_date": "2024-07-19",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "4599",
+        "variation_id": "10009",
+        "href": "https://rest.gadventures.com/itineraries/4599/10009",
+        "valid_during_ranges": [
+          {
+            "start_date": "2024-07-19",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": [
+      {
+        "room": null,
+        "departure": {
+          "id": "1397121",
+          "href": "https://rest.gadventures.com/departures/1397121"
+        },
+        "previous_amount": null,
+        "currency": "AUD",
+        "amount": "6599.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397121",
+          "href": "https://rest.gadventures.com/departures/1397121"
+        },
+        "previous_amount": null,
+        "currency": "CAD",
+        "amount": "5999.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397121",
+          "href": "https://rest.gadventures.com/departures/1397121"
+        },
+        "previous_amount": null,
+        "currency": "CHF",
+        "amount": "3819.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397121",
+          "href": "https://rest.gadventures.com/departures/1397121"
+        },
+        "previous_amount": null,
+        "currency": "CNY",
+        "amount": "32839.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397121",
+          "href": "https://rest.gadventures.com/departures/1397121"
+        },
+        "previous_amount": null,
+        "currency": "EUR",
+        "amount": "4049.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397121",
+          "href": "https://rest.gadventures.com/departures/1397121"
+        },
+        "previous_amount": null,
+        "currency": "GBP",
+        "amount": "3449.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397121",
+          "href": "https://rest.gadventures.com/departures/1397121"
+        },
+        "previous_amount": null,
+        "currency": "HKD",
+        "amount": "35039.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397121",
+          "href": "https://rest.gadventures.com/departures/1397121"
+        },
+        "previous_amount": null,
+        "currency": "JPY",
+        "amount": "704600.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397121",
+          "href": "https://rest.gadventures.com/departures/1397121"
+        },
+        "previous_amount": null,
+        "currency": "KRW",
+        "amount": "6542900.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397121",
+          "href": "https://rest.gadventures.com/departures/1397121"
+        },
+        "previous_amount": null,
+        "currency": "NZD",
+        "amount": "7319.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397121",
+          "href": "https://rest.gadventures.com/departures/1397121"
+        },
+        "previous_amount": null,
+        "currency": "SGD",
+        "amount": "6139.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397121",
+          "href": "https://rest.gadventures.com/departures/1397121"
+        },
+        "previous_amount": null,
+        "currency": "USD",
+        "amount": "4499.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397121",
+          "href": "https://rest.gadventures.com/departures/1397121"
+        },
+        "previous_amount": null,
+        "currency": "ZAR",
+        "amount": "75899.00",
+        "promotion": null
+      }
+    ]
+  },
+  {
+    "id": "22776",
+    "href": "https://rest.gadventures.com/tour_dossiers/22776",
+    "name": "Classic China & Yunnan Express",
+    "slug": "classic-china-and-yunnan-express",
+    "product_line": "ACCY",
+    "departures_start_date": "2015-01-01",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "1615",
+        "variation_id": "1356",
+        "href": "https://rest.gadventures.com/itineraries/1615/1356",
+        "valid_during_ranges": [
+          {
+            "start_date": "2015-01-01",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "26113",
+    "href": "https://rest.gadventures.com/tour_dossiers/26113",
+    "name": "China: National Parks & Vibrant Cities",
+    "slug": "china-national-parks-and-vibrant-cities",
+    "product_line": "ACCZ",
+    "departures_start_date": "2024-05-28",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "4535",
+        "variation_id": "9900",
+        "href": "https://rest.gadventures.com/itineraries/4535/9900",
+        "valid_during_ranges": [
+          {
+            "start_date": "2024-05-28",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": [
+      {
+        "room": null,
+        "departure": {
+          "id": "1364878",
+          "href": "https://rest.gadventures.com/departures/1364878"
+        },
+        "previous_amount": "1599.00",
+        "currency": "AUD",
+        "amount": "1279.20",
+        "promotion": {
+          "id": "275401",
+          "href": "https://rest.gadventures.com/promotions/275401",
+          "name": ""
+        }
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364878",
+          "href": "https://rest.gadventures.com/departures/1364878"
+        },
+        "previous_amount": "1469.00",
+        "currency": "CAD",
+        "amount": "1175.20",
+        "promotion": {
+          "id": "275401",
+          "href": "https://rest.gadventures.com/promotions/275401",
+          "name": ""
+        }
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364878",
+          "href": "https://rest.gadventures.com/departures/1364878"
+        },
+        "previous_amount": "979.00",
+        "currency": "CHF",
+        "amount": "783.20",
+        "promotion": {
+          "id": "275401",
+          "href": "https://rest.gadventures.com/promotions/275401",
+          "name": ""
+        }
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364878",
+          "href": "https://rest.gadventures.com/departures/1364878"
+        },
+        "previous_amount": "7939.00",
+        "currency": "CNY",
+        "amount": "6351.20",
+        "promotion": {
+          "id": "275401",
+          "href": "https://rest.gadventures.com/promotions/275401",
+          "name": ""
+        }
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364878",
+          "href": "https://rest.gadventures.com/departures/1364878"
+        },
+        "previous_amount": "999.00",
+        "currency": "EUR",
+        "amount": "799.20",
+        "promotion": {
+          "id": "275401",
+          "href": "https://rest.gadventures.com/promotions/275401",
+          "name": ""
+        }
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364878",
+          "href": "https://rest.gadventures.com/departures/1364878"
+        },
+        "previous_amount": "829.00",
+        "currency": "GBP",
+        "amount": "663.20",
+        "promotion": {
+          "id": "275401",
+          "href": "https://rest.gadventures.com/promotions/275401",
+          "name": ""
+        }
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364878",
+          "href": "https://rest.gadventures.com/departures/1364878"
+        },
+        "previous_amount": "8599.00",
+        "currency": "HKD",
+        "amount": "6879.20",
+        "promotion": {
+          "id": "275401",
+          "href": "https://rest.gadventures.com/promotions/275401",
+          "name": ""
+        }
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364878",
+          "href": "https://rest.gadventures.com/departures/1364878"
+        },
+        "previous_amount": "173600.00",
+        "currency": "JPY",
+        "amount": "138880.00",
+        "promotion": {
+          "id": "275401",
+          "href": "https://rest.gadventures.com/promotions/275401",
+          "name": ""
+        }
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364878",
+          "href": "https://rest.gadventures.com/departures/1364878"
+        },
+        "previous_amount": "1518300.00",
+        "currency": "KRW",
+        "amount": "1214640.00",
+        "promotion": {
+          "id": "275401",
+          "href": "https://rest.gadventures.com/promotions/275401",
+          "name": ""
+        }
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364878",
+          "href": "https://rest.gadventures.com/departures/1364878"
+        },
+        "previous_amount": "1739.00",
+        "currency": "NZD",
+        "amount": "1391.20",
+        "promotion": {
+          "id": "275401",
+          "href": "https://rest.gadventures.com/promotions/275401",
+          "name": ""
+        }
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364878",
+          "href": "https://rest.gadventures.com/departures/1364878"
+        },
+        "previous_amount": "1499.00",
+        "currency": "SGD",
+        "amount": "1199.20",
+        "promotion": {
+          "id": "275401",
+          "href": "https://rest.gadventures.com/promotions/275401",
+          "name": ""
+        }
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364878",
+          "href": "https://rest.gadventures.com/departures/1364878"
+        },
+        "previous_amount": "1099.00",
+        "currency": "USD",
+        "amount": "879.20",
+        "promotion": {
+          "id": "275401",
+          "href": "https://rest.gadventures.com/promotions/275401",
+          "name": ""
+        }
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364878",
+          "href": "https://rest.gadventures.com/departures/1364878"
+        },
+        "previous_amount": "18299.00",
+        "currency": "ZAR",
+        "amount": "14639.20",
+        "promotion": {
+          "id": "275401",
+          "href": "https://rest.gadventures.com/promotions/275401",
+          "name": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "23629",
+    "href": "https://rest.gadventures.com/tour_dossiers/23629",
+    "name": "Cycle China",
+    "slug": "cycle-china",
+    "product_line": "ACGB",
+    "departures_start_date": "2016-01-01",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "2080",
+        "variation_id": "4110",
+        "href": "https://rest.gadventures.com/itineraries/2080/4110",
+        "valid_during_ranges": [
+          {
+            "start_date": "2017-01-01",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "2080",
+        "variation_id": "502",
+        "href": "https://rest.gadventures.com/itineraries/2080/502",
+        "valid_during_ranges": [
+          {
+            "start_date": "2016-01-01",
+            "end_date": "2016-12-31"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "25221",
+    "href": "https://rest.gadventures.com/tour_dossiers/25221",
+    "name": "China: Cafés & Karst Mountains",
+    "slug": "budget-tour-china",
+    "product_line": "ACGG",
+    "departures_start_date": "2019-04-22",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "3341",
+        "variation_id": "7337",
+        "href": "https://rest.gadventures.com/itineraries/3341/7337",
+        "valid_during_ranges": [
+          {
+            "start_date": "2019-04-22",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "25224",
+    "href": "https://rest.gadventures.com/tour_dossiers/25224",
+    "name": "Hong Kong to Beijing: Food Stalls & Waterfalls",
+    "slug": "hong-kong-to-beijing-tour",
+    "product_line": "ACGN",
+    "departures_start_date": "2019-04-22",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "3344",
+        "variation_id": "7340",
+        "href": "https://rest.gadventures.com/itineraries/3344/7340",
+        "valid_during_ranges": [
+          {
+            "start_date": "2019-04-22",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "22781",
+    "href": "https://rest.gadventures.com/tour_dossiers/22781",
+    "name": "Highlights of China",
+    "slug": "highlights-of-china",
+    "product_line": "ACHC",
+    "departures_start_date": "2015-01-01",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "839",
+        "variation_id": "1124",
+        "href": "https://rest.gadventures.com/itineraries/839/1124",
+        "valid_during_ranges": [
+          {
+            "start_date": "2015-01-01",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "24518",
+    "href": "https://rest.gadventures.com/tour_dossiers/24518",
+    "name": "Harbin Ice Festival",
+    "slug": "harbin-ice-festival",
+    "product_line": "ACHH",
+    "departures_start_date": "2016-05-26",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "2471",
+        "variation_id": "3522",
+        "href": "https://rest.gadventures.com/itineraries/2471/3522",
+        "valid_during_ranges": [
+          {
+            "start_date": "2016-05-26",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "26150",
+    "href": "https://rest.gadventures.com/tour_dossiers/26150",
+    "name": "China to Vietnam: An Overland Adventure",
+    "slug": "china-to-vietnam-an-overland-adventure",
+    "product_line": "ACKH",
+    "departures_start_date": "2024-07-19",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "4596",
+        "variation_id": "10006",
+        "href": "https://rest.gadventures.com/itineraries/4596/10006",
+        "valid_during_ranges": [
+          {
+            "start_date": "2024-07-19",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": [
+      {
+        "room": null,
+        "departure": {
+          "id": "1397285",
+          "href": "https://rest.gadventures.com/departures/1397285"
+        },
+        "previous_amount": null,
+        "currency": "AUD",
+        "amount": "1599.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397285",
+          "href": "https://rest.gadventures.com/departures/1397285"
+        },
+        "previous_amount": null,
+        "currency": "CAD",
+        "amount": "1479.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397285",
+          "href": "https://rest.gadventures.com/departures/1397285"
+        },
+        "previous_amount": null,
+        "currency": "CHF",
+        "amount": "939.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397285",
+          "href": "https://rest.gadventures.com/departures/1397285"
+        },
+        "previous_amount": null,
+        "currency": "CNY",
+        "amount": "7879.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397285",
+          "href": "https://rest.gadventures.com/departures/1397285"
+        },
+        "previous_amount": null,
+        "currency": "EUR",
+        "amount": "979.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397285",
+          "href": "https://rest.gadventures.com/departures/1397285"
+        },
+        "previous_amount": null,
+        "currency": "GBP",
+        "amount": "849.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397285",
+          "href": "https://rest.gadventures.com/departures/1397285"
+        },
+        "previous_amount": null,
+        "currency": "HKD",
+        "amount": "8399.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397285",
+          "href": "https://rest.gadventures.com/departures/1397285"
+        },
+        "previous_amount": null,
+        "currency": "JPY",
+        "amount": "169000.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397285",
+          "href": "https://rest.gadventures.com/departures/1397285"
+        },
+        "previous_amount": null,
+        "currency": "KRW",
+        "amount": "1569200.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397285",
+          "href": "https://rest.gadventures.com/departures/1397285"
+        },
+        "previous_amount": null,
+        "currency": "NZD",
+        "amount": "1779.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397285",
+          "href": "https://rest.gadventures.com/departures/1397285"
+        },
+        "previous_amount": null,
+        "currency": "SGD",
+        "amount": "1479.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397285",
+          "href": "https://rest.gadventures.com/departures/1397285"
+        },
+        "previous_amount": null,
+        "currency": "USD",
+        "amount": "1079.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397285",
+          "href": "https://rest.gadventures.com/departures/1397285"
+        },
+        "previous_amount": null,
+        "currency": "ZAR",
+        "amount": "18199.00",
+        "promotion": null
+      }
+    ]
+  },
+  {
+    "id": "26192",
+    "href": "https://rest.gadventures.com/tour_dossiers/26192",
+    "name": "China's Hidden Highlights: Chengdu to Kunming",
+    "slug": "chinas-hidden-highlights-chengdu-to-kunming",
+    "product_line": "ACKK",
+    "departures_start_date": "2024-08-12",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "4651",
+        "variation_id": "10076",
+        "href": "https://rest.gadventures.com/itineraries/4651/10076",
+        "valid_during_ranges": [
+          {
+            "start_date": "2024-08-12",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": [
+      {
+        "room": null,
+        "departure": {
+          "id": "1397251",
+          "href": "https://rest.gadventures.com/departures/1397251"
+        },
+        "previous_amount": null,
+        "currency": "AUD",
+        "amount": "1829.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397251",
+          "href": "https://rest.gadventures.com/departures/1397251"
+        },
+        "previous_amount": null,
+        "currency": "CAD",
+        "amount": "1649.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397251",
+          "href": "https://rest.gadventures.com/departures/1397251"
+        },
+        "previous_amount": null,
+        "currency": "CHF",
+        "amount": "1079.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397251",
+          "href": "https://rest.gadventures.com/departures/1397251"
+        },
+        "previous_amount": null,
+        "currency": "CNY",
+        "amount": "8979.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397251",
+          "href": "https://rest.gadventures.com/departures/1397251"
+        },
+        "previous_amount": null,
+        "currency": "EUR",
+        "amount": "1129.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397251",
+          "href": "https://rest.gadventures.com/departures/1397251"
+        },
+        "previous_amount": null,
+        "currency": "GBP",
+        "amount": "969.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397251",
+          "href": "https://rest.gadventures.com/departures/1397251"
+        },
+        "previous_amount": null,
+        "currency": "HKD",
+        "amount": "9579.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397251",
+          "href": "https://rest.gadventures.com/departures/1397251"
+        },
+        "previous_amount": null,
+        "currency": "JPY",
+        "amount": "192500.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397251",
+          "href": "https://rest.gadventures.com/departures/1397251"
+        },
+        "previous_amount": null,
+        "currency": "KRW",
+        "amount": "1787400.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397251",
+          "href": "https://rest.gadventures.com/departures/1397251"
+        },
+        "previous_amount": null,
+        "currency": "NZD",
+        "amount": "2039.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397251",
+          "href": "https://rest.gadventures.com/departures/1397251"
+        },
+        "previous_amount": null,
+        "currency": "SGD",
+        "amount": "1679.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397251",
+          "href": "https://rest.gadventures.com/departures/1397251"
+        },
+        "previous_amount": null,
+        "currency": "USD",
+        "amount": "1229.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397251",
+          "href": "https://rest.gadventures.com/departures/1397251"
+        },
+        "previous_amount": null,
+        "currency": "ZAR",
+        "amount": "20799.00",
+        "promotion": null
+      }
+    ]
+  },
+  {
+    "id": "22782",
+    "href": "https://rest.gadventures.com/tour_dossiers/22782",
+    "name": "Central Asia on the Silk Road",
+    "slug": "central-asia-on-the-silk-road",
+    "product_line": "ACKU",
+    "departures_start_date": "2015-01-01",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "1093",
+        "variation_id": "1046",
+        "href": "https://rest.gadventures.com/itineraries/1093/1046",
+        "valid_during_ranges": [
+          {
+            "start_date": "2015-01-01",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "26154",
+    "href": "https://rest.gadventures.com/tour_dossiers/26154",
+    "name": "China & Vietnam: Chengdu to Hanoi",
+    "slug": "china-and-vietnam-chengdu-to-hanoi",
+    "product_line": "ACLH",
+    "departures_start_date": "2024-07-19",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "4600",
+        "variation_id": "10010",
+        "href": "https://rest.gadventures.com/itineraries/4600/10010",
+        "valid_during_ranges": [
+          {
+            "start_date": "2024-07-19",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": [
+      {
+        "room": null,
+        "departure": {
+          "id": "1397319",
+          "href": "https://rest.gadventures.com/departures/1397319"
+        },
+        "previous_amount": null,
+        "currency": "AUD",
+        "amount": "3149.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397319",
+          "href": "https://rest.gadventures.com/departures/1397319"
+        },
+        "previous_amount": null,
+        "currency": "CAD",
+        "amount": "2899.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397319",
+          "href": "https://rest.gadventures.com/departures/1397319"
+        },
+        "previous_amount": null,
+        "currency": "CHF",
+        "amount": "1819.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397319",
+          "href": "https://rest.gadventures.com/departures/1397319"
+        },
+        "previous_amount": null,
+        "currency": "CNY",
+        "amount": "15319.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397319",
+          "href": "https://rest.gadventures.com/departures/1397319"
+        },
+        "previous_amount": null,
+        "currency": "EUR",
+        "amount": "1929.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397319",
+          "href": "https://rest.gadventures.com/departures/1397319"
+        },
+        "previous_amount": null,
+        "currency": "GBP",
+        "amount": "1629.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397319",
+          "href": "https://rest.gadventures.com/departures/1397319"
+        },
+        "previous_amount": null,
+        "currency": "HKD",
+        "amount": "16339.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397319",
+          "href": "https://rest.gadventures.com/departures/1397319"
+        },
+        "previous_amount": null,
+        "currency": "JPY",
+        "amount": "328800.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397319",
+          "href": "https://rest.gadventures.com/departures/1397319"
+        },
+        "previous_amount": null,
+        "currency": "KRW",
+        "amount": "3052600.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397319",
+          "href": "https://rest.gadventures.com/departures/1397319"
+        },
+        "previous_amount": null,
+        "currency": "NZD",
+        "amount": "3499.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397319",
+          "href": "https://rest.gadventures.com/departures/1397319"
+        },
+        "previous_amount": null,
+        "currency": "SGD",
+        "amount": "2859.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397319",
+          "href": "https://rest.gadventures.com/departures/1397319"
+        },
+        "previous_amount": null,
+        "currency": "USD",
+        "amount": "2099.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1397319",
+          "href": "https://rest.gadventures.com/departures/1397319"
+        },
+        "previous_amount": null,
+        "currency": "ZAR",
+        "amount": "35399.00",
+        "promotion": null
+      }
+    ]
+  },
+  {
+    "id": "26119",
+    "href": "https://rest.gadventures.com/tour_dossiers/26119",
+    "name": "Essential Tibet",
+    "slug": "essential-tibet",
+    "product_line": "ACLK",
+    "departures_start_date": "2024-05-30",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "4544",
+        "variation_id": "9911",
+        "href": "https://rest.gadventures.com/itineraries/4544/9911",
+        "valid_during_ranges": [
+          {
+            "start_date": "2024-05-30",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": [
+      {
+        "room": null,
+        "departure": {
+          "id": "1364615",
+          "href": "https://rest.gadventures.com/departures/1364615"
+        },
+        "previous_amount": null,
+        "currency": "AUD",
+        "amount": "4599.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364615",
+          "href": "https://rest.gadventures.com/departures/1364615"
+        },
+        "previous_amount": null,
+        "currency": "CAD",
+        "amount": "4199.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364639",
+          "href": "https://rest.gadventures.com/departures/1364639"
+        },
+        "previous_amount": null,
+        "currency": "CHF",
+        "amount": "2679.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364615",
+          "href": "https://rest.gadventures.com/departures/1364615"
+        },
+        "previous_amount": null,
+        "currency": "CNY",
+        "amount": "22359.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364615",
+          "href": "https://rest.gadventures.com/departures/1364615"
+        },
+        "previous_amount": null,
+        "currency": "EUR",
+        "amount": "2819.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364615",
+          "href": "https://rest.gadventures.com/departures/1364615"
+        },
+        "previous_amount": null,
+        "currency": "GBP",
+        "amount": "2379.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364639",
+          "href": "https://rest.gadventures.com/departures/1364639"
+        },
+        "previous_amount": null,
+        "currency": "HKD",
+        "amount": "24139.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364639",
+          "href": "https://rest.gadventures.com/departures/1364639"
+        },
+        "previous_amount": null,
+        "currency": "JPY",
+        "amount": "485400.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364615",
+          "href": "https://rest.gadventures.com/departures/1364615"
+        },
+        "previous_amount": null,
+        "currency": "KRW",
+        "amount": "4281300.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364615",
+          "href": "https://rest.gadventures.com/departures/1364615"
+        },
+        "previous_amount": null,
+        "currency": "NZD",
+        "amount": "4979.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364615",
+          "href": "https://rest.gadventures.com/departures/1364615"
+        },
+        "previous_amount": null,
+        "currency": "SGD",
+        "amount": "4199.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364615",
+          "href": "https://rest.gadventures.com/departures/1364615"
+        },
+        "previous_amount": null,
+        "currency": "USD",
+        "amount": "3099.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1364615",
+          "href": "https://rest.gadventures.com/departures/1364615"
+        },
+        "previous_amount": null,
+        "currency": "ZAR",
+        "amount": "51399.00",
+        "promotion": null
+      }
+    ]
+  },
+  {
+    "id": "23699",
+    "href": "https://rest.gadventures.com/tour_dossiers/23699",
+    "name": "Hidden China & Inner Mongolia",
+    "slug": "hidden-china-and-inner-mongolia",
+    "product_line": "ACNC",
+    "departures_start_date": "2016-01-01",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "847",
+        "variation_id": "2499",
+        "href": "https://rest.gadventures.com/itineraries/847/2499",
+        "valid_during_ranges": [
+          {
+            "start_date": "2016-01-01",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "25989",
+    "href": "https://rest.gadventures.com/tour_dossiers/25989",
+    "name": "Highlights of China",
+    "slug": "highlights-of-china",
+    "product_line": "ACPY",
+    "departures_start_date": "2023-11-16",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "4372",
+        "variation_id": "9957",
+        "href": "https://rest.gadventures.com/itineraries/4372/9957",
+        "valid_during_ranges": [
+          {
+            "start_date": "2024-07-17",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "4372",
+        "variation_id": "9625",
+        "href": "https://rest.gadventures.com/itineraries/4372/9625",
+        "valid_during_ranges": [
+          {
+            "start_date": "2023-11-16",
+            "end_date": "2024-07-16"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": [
+      {
+        "room": null,
+        "departure": {
+          "id": "1324049",
+          "href": "https://rest.gadventures.com/departures/1324049"
+        },
+        "previous_amount": null,
+        "currency": "AUD",
+        "amount": "4249.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1324049",
+          "href": "https://rest.gadventures.com/departures/1324049"
+        },
+        "previous_amount": null,
+        "currency": "CAD",
+        "amount": "3849.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1324049",
+          "href": "https://rest.gadventures.com/departures/1324049"
+        },
+        "previous_amount": null,
+        "currency": "CHF",
+        "amount": "2439.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1324035",
+          "href": "https://rest.gadventures.com/departures/1324035"
+        },
+        "previous_amount": null,
+        "currency": "CNY",
+        "amount": "21579.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1324049",
+          "href": "https://rest.gadventures.com/departures/1324049"
+        },
+        "previous_amount": null,
+        "currency": "EUR",
+        "amount": "2579.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1324049",
+          "href": "https://rest.gadventures.com/departures/1324049"
+        },
+        "previous_amount": null,
+        "currency": "GBP",
+        "amount": "2229.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1324049",
+          "href": "https://rest.gadventures.com/departures/1324049"
+        },
+        "previous_amount": null,
+        "currency": "HKD",
+        "amount": "23199.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1324035",
+          "href": "https://rest.gadventures.com/departures/1324035"
+        },
+        "previous_amount": null,
+        "currency": "JPY",
+        "amount": "448900.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1324035",
+          "href": "https://rest.gadventures.com/departures/1324035"
+        },
+        "previous_amount": null,
+        "currency": "KRW",
+        "amount": "3993400.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1324035",
+          "href": "https://rest.gadventures.com/departures/1324035"
+        },
+        "previous_amount": null,
+        "currency": "NZD",
+        "amount": "4699.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1324035",
+          "href": "https://rest.gadventures.com/departures/1324035"
+        },
+        "previous_amount": null,
+        "currency": "SGD",
+        "amount": "4039.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1324049",
+          "href": "https://rest.gadventures.com/departures/1324049"
+        },
+        "previous_amount": null,
+        "currency": "USD",
+        "amount": "2979.00",
+        "promotion": null
+      },
+      {
+        "room": null,
+        "departure": {
+          "id": "1324049",
+          "href": "https://rest.gadventures.com/departures/1324049"
+        },
+        "previous_amount": null,
+        "currency": "ZAR",
+        "amount": "50299.00",
+        "promotion": null
+      }
+    ]
+  },
+  {
+    "id": "24507",
+    "href": "https://rest.gadventures.com/tour_dossiers/24507",
+    "name": "Hong Kong to Beijing on a Shoestring",
+    "slug": "hong-kong-to-beijing-shoestring",
+    "product_line": "ACRB",
+    "departures_start_date": "2016-05-26",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "2459",
+        "variation_id": "6617",
+        "href": "https://rest.gadventures.com/itineraries/2459/6617",
+        "valid_during_ranges": [
+          {
+            "start_date": "2019-01-01",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "2459",
+        "variation_id": "3510",
+        "href": "https://rest.gadventures.com/itineraries/2459/3510",
+        "valid_during_ranges": [
+          {
+            "start_date": "2016-05-26",
+            "end_date": "2018-12-31"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "23199",
+    "href": "https://rest.gadventures.com/tour_dossiers/23199",
+    "name": "China on a Shoestring–Hong Kong to Beijing",
+    "slug": "china-on-a-shoestring-hong-kong-to-beijing",
+    "product_line": "ACRC",
+    "departures_start_date": "2015-01-01",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "1125",
+        "variation_id": "842",
+        "href": "https://rest.gadventures.com/itineraries/1125/842",
+        "valid_during_ranges": [
+          {
+            "start_date": "2015-01-01",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "22995",
+    "href": "https://rest.gadventures.com/tour_dossiers/22995",
+    "name": "Budget China–Beijing to Hong Kong",
+    "slug": "budget-china-beijing-to-hong-kong",
+    "product_line": "ACRG",
+    "departures_start_date": "2014-05-12",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "893",
+        "variation_id": "1934",
+        "href": "https://rest.gadventures.com/itineraries/893/1934",
+        "valid_during_ranges": [
+          {
+            "start_date": "2014-05-12",
+            "end_date": null
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "24581",
+    "href": "https://rest.gadventures.com/tour_dossiers/24581",
+    "name": "Ultimate China on a Shoestring - Hong Kong to Hong Kong",
+    "slug": "ultimate-china-on-a-shoestring-hong-kong-to-hong-kong",
+    "product_line": "ACRR",
+    "departures_start_date": "2016-06-09",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "2566",
+        "variation_id": "6640",
+        "href": "https://rest.gadventures.com/itineraries/2566/6640",
+        "valid_during_ranges": [
+          {
+            "start_date": "2019-01-01",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "2566",
+        "variation_id": "3747",
+        "href": "https://rest.gadventures.com/itineraries/2566/3747",
+        "valid_during_ranges": [
+          {
+            "start_date": "2016-06-09",
+            "end_date": "2017-12-14"
+          }
+        ]
+      },
+      {
+        "id": "2566",
+        "variation_id": "5496",
+        "href": "https://rest.gadventures.com/itineraries/2566/5496",
+        "valid_during_ranges": [
+          {
+            "start_date": "2017-12-15",
+            "end_date": "2018-12-31"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "24582",
+    "href": "https://rest.gadventures.com/tour_dossiers/24582",
+    "name": "Hong Kong to Shanghai on a Shoestring",
+    "slug": "hong-kong-to-shanghai-on-a-shoestring",
+    "product_line": "ACRS",
+    "departures_start_date": "2016-06-09",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "2570",
+        "variation_id": "6642",
+        "href": "https://rest.gadventures.com/itineraries/2570/6642",
+        "valid_during_ranges": [
+          {
+            "start_date": "2019-01-01",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "2570",
+        "variation_id": "3751",
+        "href": "https://rest.gadventures.com/itineraries/2570/3751",
+        "valid_during_ranges": [
+          {
+            "start_date": "2016-06-09",
+            "end_date": "2018-12-31"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  },
+  {
+    "id": "24567",
+    "href": "https://rest.gadventures.com/tour_dossiers/24567",
+    "name": "Classic Beijing to Hong Kong Adventure",
+    "slug": "classic-beijing-to-hong-kong-adventure",
+    "product_line": "ACSB",
+    "departures_start_date": "2016-06-08",
+    "departures_end_date": "2035-12-31",
+    "booking_companies": [
+      {
+        "id": "1",
+        "href": "https://rest.gadventures.com/booking_companies/1"
+      }
+    ],
+    "structured_itineraries": [
+      {
+        "id": "2540",
+        "variation_id": "8363",
+        "href": "https://rest.gadventures.com/itineraries/2540/8363",
+        "valid_during_ranges": [
+          {
+            "start_date": "2021-01-01",
+            "end_date": null
+          }
+        ]
+      },
+      {
+        "id": "2540",
+        "variation_id": "3714",
+        "href": "https://rest.gadventures.com/itineraries/2540/3714",
+        "valid_during_ranges": [
+          {
+            "start_date": "2016-06-08",
+            "end_date": "2017-12-14"
+          }
+        ]
+      },
+      {
+        "id": "2540",
+        "variation_id": "5524",
+        "href": "https://rest.gadventures.com/itineraries/2540/5524",
+        "valid_during_ranges": [
+          {
+            "start_date": "2017-12-15",
+            "end_date": "2019-12-31"
+          }
+        ]
+      },
+      {
+        "id": "2540",
+        "variation_id": "7313",
+        "href": "https://rest.gadventures.com/itineraries/2540/7313",
+        "valid_during_ranges": [
+          {
+            "start_date": "2020-01-01",
+            "end_date": "2020-12-31"
+          }
+        ]
+      }
+    ],
+    "advertised_departures": []
+  }
+]
